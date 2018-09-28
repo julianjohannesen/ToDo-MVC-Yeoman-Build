@@ -1,0 +1,17 @@
+{
+  "generator-fountain-react": {
+    "version": "1.0.0",
+    "props": {
+      "framework": "react",
+      "modules": "webpack",
+      "js": "babel",
+      "ci": "circleci",
+      "css": "scss",
+      "resolved": "/home/julian/.nvm/versions/node/v9.9.0/lib/node_modules/generator-fountain-webapp/node_modules/generator-fountain-react/generators/app/index.js",
+      "namespace": "fountain-react:app",
+      "_": [],
+      "sample": "todoMVC",
+      "router": "router"
+    }
+  }
+}
