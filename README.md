@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This build of the [ToDoMVC](http://todomvc.com/) app was created using Yeoman and the Fountain webapp generator by following the tutorial found on the [Yeoman tutorials page](http://yeoman.io/codelab/). 
+This build of the [ToDoMVC](http://todomvc.com/) app was created using [Yeoman](http://yeoman.io) and the [FountainJS](https://github.com/FountainJS/generator-fountain-webapp) webapp generator by following the tutorial found on the [Yeoman tutorials page](http://yeoman.io/codelab/). 
 
 The entire purpose of this sample build is to familiarize myself with Yeoman and its generators.
 
